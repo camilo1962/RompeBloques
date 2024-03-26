@@ -1,6 +1,6 @@
 ### Rompe Bloques
 
-![](hhttps://github.com/camilo1962/RompeBloques/blob/main/Assets/Images/icono.png)
+![](https://github.com/camilo1962/RompeBloques/blob/main/Assets/Images/icono.png)
 
 > Unity version - 2022.1.0f1
 
